@@ -1921,6 +1921,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De3khrX.png" group-title="🌎 14.国际·美洲",🇺🇸 Unsolved Mysteries
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="🌎 14.国际·美洲",🇺🇸 VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="🌎 14.国际·美洲",🇺🇸 VOA TV
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 group-title="🌎 14.国际·美洲",🇺🇸 VOA美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="🌎 14.国际·美洲",🇺🇸 VoA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmqComb.png" group-title="🌎 14.国际·美洲",🇺🇸 VoA TV Persian
@@ -2231,6 +2237,8 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 group-title="🎬 17.欧美电影",AMC Series
 http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 group-title="🎬 17.欧美电影",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎬 17.欧美电影",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 group-title="🎬 17.欧美电影",Cinemax Classics
