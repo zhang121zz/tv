@@ -1871,3 +1871,25 @@ https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/vacation-channel-il-hd.png" group-title="🔓 16.国际·需代理",🇮🇱 Vacation Channel
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",Cinemax West
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",HBO
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",HBO
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",HBO 2
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",HBO 2
+http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",HBO 3
+http://185.227.34.179:8080/hbo-3-hd/index.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",HBO 3
+http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",HBO Hits
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 group-title="🎬 17.HBO·Cinemax",Showtime Family Zone
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
