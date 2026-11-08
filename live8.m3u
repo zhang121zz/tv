@@ -1165,6 +1165,8 @@ https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MU4E0A7.png" group-title="🌏 12.国际·亚洲",🇹🇭 Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 group-title="🌏 12.国际·亚洲",🇹🇭 GMM 25
+https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETgVyTy.png" group-title="🌏 12.国际·亚洲",🇹🇭 Good Idea TV
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/halal-tv-th.png" group-title="🌏 12.国际·亚洲",🇹🇭 Halal TV
