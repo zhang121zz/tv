@@ -5,10 +5,6 @@ http://222.223.41.27:8888/hls/1/index.m3u8
 http://45.192.97.170:8880/play/222.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺 1.央视",CCTV-2
 http://222.223.41.27:8888/hls/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺 1.央视",CCTV-2
-http://45.192.97.170:8880/play/442.m3u8
-#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺 1.央视",CCTV-2
-http://45.192.97.170:8880/play/390.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺 1.央视",CCTV-3
 http://222.223.41.27:8888/hls/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺 1.央视",CCTV-3
@@ -1019,8 +1015,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 group-title="🌏 12.国际·亚洲",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="🌏 12.国际·亚洲",VoA TV China
-https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 group-title="🌏 12.国际·亚洲",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="🌏 12.国际·亚洲",WionNews
@@ -1583,16 +1577,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De3khrX.png" group-title="🌎 14.国际·美洲",🇺🇸 Unsolved Mysteries
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="🌎 14.国际·美洲",🇺🇸 VOA Persian
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 group-title="🌎 14.国际·美洲",🇺🇸 VOA TV
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 group-title="🌎 14.国际·美洲",🇺🇸 VOA美国之音
-https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="🌎 14.国际·美洲",🇺🇸 VoA TV
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TmqComb.png" group-title="🌎 14.国际·美洲",🇺🇸 VoA TV Persian
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YNx0j1b.png" group-title="🌎 14.国际·美洲",🇺🇸 Watch it KID!
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bz3Caum.png" group-title="🌎 14.国际·美洲",🇺🇸 Watch it Scream!
@@ -1949,3 +1933,9 @@ http://149.62.177.107:9999/TMC/index.m3u8
 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 #EXTINF:-1 group-title="🎬 17.欧美电影",TNT Novelas
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 group-title="📻 18.VOA 美国之音",🇺🇸 VOA TV
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 group-title="📻 18.VOA 美国之音",🇺🇸 VOA 中文
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 group-title="📻 18.VOA 美国之音",🇺🇸 VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
